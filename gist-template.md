@@ -123,4 +123,4 @@ Regex character escapes provide a convenient way to match specific characters wi
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Paul Dutile III, I have a beautiful wife and 3 amazing kids. I'm located in the great state of Utah. I am a hardcore sports fan and love to golf. I'm enrolled in the University of Utah's Coding Bootcamp. I owe all my successes thus far to the amazing instructor group! Litterally would not be here without them. I'm looking to take this certification and parlay that with my extensive sales and business background and almost create a role for myself. Down the road add a salesforce certification and really take off. 
