@@ -39,6 +39,6 @@ The "Flags" section explains the concept of regex flags and how they can modify 
 The "Character Escapes" section focuses on character escapes or escape sequences in regex. You will learn about various escape sequences like \d, \w, \s, and others that match specific characters with special meanings.
 
 # Author
-This tutorial is authored by Paul Dutile III. For more information and additional resources, .
+This tutorial is authored by Paul Dutile III. For more information and additional resources, please take a look at my github https://github.com/Pdut3.
 
 Feel free to explore the different sections of the tutorial, follow the explanations, and deepen your understanding of regular expressions. Happy regex matching!
